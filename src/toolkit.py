@@ -277,4 +277,5 @@ def log(msg:str) -> None:
     f.write(msg + "\n\n")
     f.close()
 
-# github push test 1
+# github push test 1 was succesfull but not without trouble
+
