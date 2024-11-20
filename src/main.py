@@ -369,3 +369,6 @@ def FATAL_ERROR(msg:str) -> None:
 
 ########### RUN THE SCOUT FLIGHT CONTROLLER PROGRAM ###########
 run()
+
+
+#github push test 1
